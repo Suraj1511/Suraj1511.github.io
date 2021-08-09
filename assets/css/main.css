@@ -2599,7 +2599,7 @@ input, select, textarea {
 		}
 
 		#img1{
-			border-radius: 50%;
+			border-radius: 0%;
 		}
 
 		.image.left, .image.right {
